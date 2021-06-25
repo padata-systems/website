@@ -2,12 +2,12 @@
 title: apply
 ---
 
-## Step 1: Submit your application
+## Step 1: Get in touch
 
 [here](https://docs.google.com/forms/d/e/1FAIpQLSe_YwDaPDl2Eui4l31GhfQSc3N_ysekvBiGRufxwDIq1H3Vwg/viewform)
 
-## Step 2: Make donation
+## Step 2: Subscribe
 
-[here](#table-of-contents)
+[here](https://www.helloasso.com/associations/padata/adhesions/adhesion-padata)
 
-## Step 3: We will email you your membership access in maximum 48h after application
+## Step 3: Welcome! We'll back to you
