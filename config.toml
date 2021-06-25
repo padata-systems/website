@@ -1,0 +1,9 @@
+baseURL = "https://padata.systems/"
+languageCode = "en-us"
+title = "PARIS DATA engineering community"
+theme = "dimension"
+
+[markup]
+  defaultMarkdownHandler = "blackFriday"
+  [markup.blackFriday]
+    hrefTargetBlank = true
