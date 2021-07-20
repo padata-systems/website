@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/my-doks-site" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/my-doks-site2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/old/themes/dimension" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/dimension" vcs="Git" />
   </component>
 </project>
