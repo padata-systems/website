@@ -14,7 +14,7 @@ module.exports = {
   projectName: 'website', // Usually your repo name.
   themeConfig: {
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: true
     },
     navbar: {
