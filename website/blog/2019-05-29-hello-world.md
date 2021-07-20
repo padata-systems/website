@@ -1,17 +1,16 @@
 ---
 slug: hello-world
-title: Hello
-author: Endilie Yacop Sucipto
-author_title: Maintainer of Docusaurus
-author_url: https://github.com/endiliey
-author_image_url: https://avatars1.githubusercontent.com/u/17883920?s=460&v=4
-tags: [hello, docusaurus]
+title: Why Padata ?
+author: Cyril de Catheu
+author_title: Padata co-founder.
+author_url: https://www.linkedin.com/in/cyril-de-catheu/
+author_image_url: https://media-exp3.licdn.com/dms/image/C5603AQFHYo3nbXSKzQ/profile-displayphoto-shrink_200_200/0/1578557191398?e=1632355200&v=beta&t=SnaNpwzeFuVmdbZ0YBg05-YdBZhZC7xYoSVd8TFI1lw
+tags: [hello]
 ---
 
-Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docusaurus.io/).
 
 <!--truncate-->
 
-This is a test post.
+Because there was no organised data engineering community in Paris.
 
-A whole bunch of other information.
+![Thanks Captain obvious!](https://www.memesmonkey.com/images/memesmonkey/cd/cdb9ee0fd2194187052171078c5fed85.jpeg)
